@@ -1,6 +1,6 @@
 # EURO-Coin Dataset
 
-This repository contains a collection of images of euro coins collected by means of a web crawler capable of extracting publicly available images using Google, Bing, and Baidu search engines. The data is for non-commercial research purposes only. The paper related to this repository can be found [here]().
+This repository contains a collection of images of euro coins collected by means of a web crawler capable of extracting publicly available images using Google, Bing, and Baidu search engines. The data is for non-commercial research purposes only. 
 
 ## Data Organization
 
