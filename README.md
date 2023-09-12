@@ -43,7 +43,7 @@ By using this dataset, you agree to cite the following article:
 
 ```
 @inproceedings{cirillo2023coin,
-  title={TBD},
+  title={A deep learning approach to classify country and value of modern coins},
   author={Cirillo, S., Solimando, G., and Virgili, L.},
   booktitle={TBD},
   year={2023}
