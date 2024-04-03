@@ -42,10 +42,12 @@ The main characteristics of the dataset are shown in the following table.
 By using this dataset, you agree to cite the following article: 
 
 ```
-@inproceedings{cirillo2023coin,
+@article{cirillo2023deep,
   title={A deep learning approach to classify country and value of modern coins},
-  author={Cirillo, S., Solimando, G., and Virgili, L.},
-  booktitle={TBD},
-  year={2023}
+  author={Cirillo, Stefano and Solimando, Giandomenico and Virgili, Luca},
+  journal={Neural Computing and Applications},
+  pages={1--17},
+  year={2023},
+  publisher={Springer}
 }
 ```
