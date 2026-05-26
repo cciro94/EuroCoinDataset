@@ -27,6 +27,31 @@ The dataset is intended exclusively for **non-commercial research** purposes (e.
 
 ---
 
+## Getting Started
+
+The full dataset (~4.9 GB, 12,878 images) is hosted on **[Hugging Face Hub](https://huggingface.co/datasets/DAISLab-Unisa/EURO_Coin_Dataset)**. The GitHub repository contains only sample images and a download script — clone it and then run:
+
+```bash
+pip install huggingface_hub
+python download_dataset.py
+```
+
+This will create the `country_dataset/` and `denomination_dataset/` folders locally.
+
+**With a HuggingFace token** (required if the repository is set to private):
+```bash
+python download_dataset.py --token hf_your_token_here
+```
+
+**Download to a custom directory:**
+```bash
+python download_dataset.py --dir /path/to/destination
+```
+
+> A HuggingFace account and token can be created at [huggingface.co/settings/tokens](https://huggingface.co/settings/tokens).
+
+---
+
 ## Supported Tasks
 
 | Task | Description |

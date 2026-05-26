@@ -1,0 +1,12 @@
+# Full dataset folders — download from HuggingFace Hub instead
+/country_dataset/
+/denomination_dataset/
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+
+# OS
+.DS_Store
+Thumbs.db
